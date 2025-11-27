@@ -10,7 +10,7 @@
 </p>
 <br>
 
-
+<!--
 <table>
   <tr>
     <td align="center">
@@ -20,7 +20,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishkarpatil&theme=dracula" alt="GitHub Streak" height="180"/>
     </td>
   </tr>
-</table>
+</table> -->
 
 <br>
 
